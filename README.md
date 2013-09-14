@@ -5,7 +5,8 @@ Proumo$ ![image] (https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/150429_
 
 #### Definição:
 ------------------
-[__Proumo$__](http://proumos.com) é um Gateway de pagamentos por meios digitais de baixo custo e de fácil implantação com uma Moeda Virtual ([__Pr$__](http://proumos.com)) que possibilita a "_viralização_" dos produtos/serviços com promoções no modelo de: _compra coletiva_. Essas compras/vendas podem ser efetuadas por __aplicações__ e por __pessoas comuns__.
+[__Proumo$__](http://proumos.com) é um Gateway de pagamentos por meios digitais de baixo custo e de fácil implantação com uma Moeda Virtual ([__Pr$__](http://proumos.com)) que possibilita a "_viralização_" dos produtos/serviços com promoções no modelo de: _compra coletiva_. 
+<br>__*__ Essas compras/vendas podem ser efetuadas por __aplicações__ e por __pessoas comuns__.
 
 ###### Lista de tipos de Applicações:
 * [WebApp (Sistema Web)](http://pt.wikipedia.org/wiki/Aplica%C3%A7%C3%A3o_Web);
