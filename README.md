@@ -17,10 +17,8 @@ Proumo$ ![image] (https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/150429_
 #### Objetivo:
 ------------------
 
-O Proumo$ tem como objetivo a facilidade de compras e vendas de produtos e serviços nas aplicações virtuais (Web e Móveis) e que com o uso da moeda Pr$ permite a promoção/disseminação dos produtos/serviços de forma a nível de [__viralização__](http://pt.wikipedia.org/wiki/Marketing_viral) __quando houver a possibilidade de descontos em compras coletivas__.
-
-Sistema destinado a ser uma moeda virtual usada para compras, com descontos, em [compras coletivas](http://pt.wikipedia.org/wiki/Compras_coletivas) de produtos em aplicações (multiplataforma) de terceiros por WebService, garantindo sua segurança e comodidade.    
-_Link do sistema:_ __[Pr$](http://proumos.com)__.     
+O Proumo$ tem como objetivo a facilidade de comprar e vender produtos e serviços em aplicações virtuais (Web e Móveis) e que com o uso da moeda Pr$ permite a promoção/disseminação dos produtos/serviços de forma a nível de [__viralização__](http://pt.wikipedia.org/wiki/Marketing_viral) __quando houver a possibilidade de descontos em compras coletivas__.
+<br>Tudo isso com __comodidade__ e __segurança__.
 <br><br>
 
 #### Fucionamento:
