@@ -6,7 +6,7 @@ Proumo$ ![image] (https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/150429_
 #### Definição:
 ------------------
 [__Proumo$__](http://proumos.com) é um Gateway de pagamentos por meios digitais de baixo custo e de fácil implantação com uma Moeda Virtual ([__Pr$__](http://proumos.com)) que possibilita a " _viralização_ " dos produtos/serviços com promoções no modelo de: _compra coletiva_. 
-<br>__*__ Essas compras/vendas podem ser efetuadas por __aplicações__ e por __pessoas comuns__.
+<br>__*__ Essas compras/vendas podem ser efetuadas por __aplicações__ e por __pessoas comuns (lojas físicas ou de e-commerce)__.
 
 ###### Lista de tipos de Applicações:
 * [WebApp (Sistema Web)](http://pt.wikipedia.org/wiki/Aplica%C3%A7%C3%A3o_Web);
@@ -18,7 +18,7 @@ Proumo$ ![image] (https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/150429_
 #### Objetivo:
 ------------------
 
-O Proumo$ tem como objetivo a facilidade de comprar e vender produtos e serviços em aplicações virtuais (Web e Móveis) e que com o uso da moeda Pr$ permite a promoção/disseminação dos produtos/serviços de forma a nível de [__viralização__](http://pt.wikipedia.org/wiki/Marketing_viral) _quando houver a possibilidade de descontos em compras coletivas_.
+O Proumo$ tem como objetivo facilitar a compra e venda produtos e serviços por quaisquer pessoas/estabelecimentos(físicos ou virtuais) por meio de conexão com a internet e com o uso da moeda Pr$ permite a promoção/disseminação dos produtos/serviços a nível de [__viralização__](http://pt.wikipedia.org/wiki/Marketing_viral) _quando houver a possibilidade de descontos em compras coletivas_.
 <br>Tudo isso com __comodidade__ e __segurança__.
 <br><br>
 
