@@ -75,9 +75,7 @@ IMAGEM COM O ESQUEMA DE FUNCIONAMENTO DO PRODUTO (DE ONDE VEM OS APPS, DE ONDE G
 
 ##### Nome:
 
-##### TODOs:
-
-##### Itens Feitos:
+##### Funcionalidade que contempla:
 
 ### SAVON GENERATE A PARTIR DE UM WSDL:  wsdl2ruby.rb --wsdl ~/Documents/Consultas.wsdl --type client --force;
 ![image] (https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/150429_1396756187207261_1711022912_n.jpg "Ícone da moeda virtual Pr$")
