@@ -35,7 +35,7 @@ IMAGEM COM O ESQUEMA DE FUNCIONAMENTO DO PRODUTO (DE ONDE VEM OS APPS, DE ONDE G
 
 ##### Desenvolvedor 
 
-###### 2. Ambiente de desenvolvimento
+###### 1. Ambiente de desenvolvimento
 É possível trocar de volta da moeda virtual ([Pr$](http://proumos.com)) para a moeda física.
  * Regra de negócio - 001: Este câmbio respeita a cotação, corrente, da moeda no mercado mundial de moedas;
  * Regra de negócio - 002: O _débito_ só ocorrerá se a  quantidade de ([Pr$](http://proumos.com)) for 3x o valor, corrente, da transação.
