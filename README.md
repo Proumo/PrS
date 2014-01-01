@@ -1,66 +1,27 @@
-Proumo$ ![image] (https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/150429_1396756187207261_1711022912_n.jpg "Ícone da moeda virtual Pr$")
+ProumoBox ![image] (http://proumo.com.br/assets/img/logo-60.png?v=322 "Logo ProumoBox")
 ==========
 
 ## Produto
 
 #### Definição:
 ------------------
-[__Proumo$__](http://proumos.com) é um Gateway de pagamentos por meios digitais de baixo custo e de fácil implantação com uma Moeda Virtual ([__Pr$__](http://proumos.com)) que possibilita a " _viralização_ " dos produtos/serviços com promoções no modelo de: _compra coletiva_. 
-<br>__*__ Essas compras/vendas podem ser efetuadas por __aplicações__ e por __pessoas comuns (lojas físicas ou de e-commerce)__.
 
-###### Lista de tipos de Applicações:
+##### Pitch
+Serviço de publicidade interativa baseado na segmentação dos melhores amigos das redes sociais.
+
+##### Explicação em detalhes
+O ProumoBox é composto por uma loja de BBapps (BillBoard em formato de Aplicativos) espalhados por espaços publicitários em toda a internet. Quando um internauta se depara com um destes espaços, seus amigos são rastreados e o BBapps é segmentado para alcançar o interesse de seus amigos.
+
+###### Tipos de 'ambientes' em que irão as propagandas:
 * [WebApp (Sistema Web)](http://pt.wikipedia.org/wiki/Aplica%C3%A7%C3%A3o_Web);
 * [Web Sites](https://pt.wikipedia.org/wiki/Site);
 * [Mobile Apps](http://en.wikipedia.org/wiki/Mobile_app);
 * [E qualquer outra plataforma capaz de interoperabilizar com outro sistema por meio do protocolo HTTP](http://pt.wikipedia.org/wiki/HTTPS).  
 <br><br>
 
-#### Objetivo:
-------------------
-
-O Proumo$ tem como objetivo facilitar a compra e venda produtos e serviços por quaisquer pessoas/estabelecimentos(físicos ou virtuais) por meio de conexão com a internet e com o uso da moeda Pr$ permite a promoção/disseminação dos produtos/serviços a nível de [__viralização__](http://pt.wikipedia.org/wiki/Marketing_viral) _quando houver a possibilidade de descontos em compras coletivas_.
-<br>Tudo isso com __comodidade__ e __segurança__.
-<br><br>
-
 #### Fucionamento:
 ------------------
-
-##### Imagem Descritiva:
-
-<br>
-
-##### Texto Descritivo:
-###### Rotina Ator Apper:
-1. O Apper _(dono da aplicação de venda de produtos/serviços)_ se cadastro no [Pr$](http://proumos.com);
-2. O Apper recebe um API Key e um Secret Key;
- * Secret Key: Chave única e de uso exclusivo do cliente;
- * API Key: Chave que define quais as permissões que os cliente querem nos anúncios.
-3. O Apper opta a forma de interação com o [Pr$](http://proumos.com) _( [Vide API](#api) )_;
-4. O Apper informa os dados do produto:
- * O preço do produto;
- * O preço com desconto;
- * O link/referência do produto;
- * Quantidade de pessoas estimadas para a compra com o desconto;
- * Data para fim da promoção.
-5. O Proumo$ ([Pr$](http://proumos.com)) se encarrega de criar e _disseminar_  a propaganda.    
- * O Apper, quando aceita o direito de ter promoção gratuita, aceita também que outros produtos, correlacionados,sejam anunciados em seu sistema.
- * O Apper deve permitir uma fácil comunição do Proumo$ ([Pr$](http://proumos.com)) com sua aplicação para a captura das propagandas _( [Vide API](#api) )_;
- 
-###### Rotina Ator Anunciante:
-1. O Anunciante deve interagir pela aplicação que usa o Proumo$ ([Pr$](http://proumos.com));
-2. O Anunciante é capturado pela interação da Aplicação do Apper com a [API](#pr-api) do Proumo$ ([Pr$](http://proumos.com)).
-
-###### Rotina Ator Cliente:
-1. O Cliente é autenticado pela interação da aplicação do Apper com a _( [Pr$-API](#pr-api) )_ do [Pr$](http://proumos.com);
-2. O Cliente interage com as [funcionalidades](#fucionalidades) pela GUI do [Pr$](http://proumos.com).
-
-###### Rotina do Sistema:
-1. O Sistema [Pr$](http://proumos.com) contabiliza a compra do Cliente;
-2. O sistema valida a operação;
- * A compra só será liberada mediante o cumprimento das [_configurações de venda_](#configuracao_de_venda) configuradas pelo Anunciante.
- * No caso de [_troca de Pr$_](#troca_prs) será validado mediante a [_regra de negócio de troca_](#rn_troca_prs).
-
-<br><br>
+IMAGEM COM O ESQUEMA DE FUNCIONAMENTO DO PRODUTO (DE ONDE VEM OS APPS, DE ONDE GANHAMOS DINHEIRO, AONDE MOVIMENTAMOS APENAS, QUEM CRIA BBAPP QUEM CRIA APP...)
 
 #### Fucionalidades:
 ------------------
@@ -153,3 +114,4 @@ O _sistema_ [__Proumo$__](http://proumos.com) oferece as seguintes ações para 
 ##### Itens Feitos:
 
 ### SAVON GENERATE A PARTIR DE UM WSDL:  wsdl2ruby.rb --wsdl ~/Documents/Consultas.wsdl --type client --force;
+![image] (https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/150429_1396756187207261_1711022912_n.jpg "Ícone da moeda virtual Pr$")
