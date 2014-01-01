@@ -12,7 +12,7 @@ Serviço de publicidade interativa baseado na segmentação dos melhores amigos 
 ##### Explicação em detalhes
 O ProumoBox é composto por uma loja de BBapps (BillBoard em formato de Aplicativos) espalhados por espaços publicitários em toda a internet. Quando um internauta se depara com um destes espaços, seus amigos são rastreados e o BBapps é segmentado para alcançar o interesse de seus amigos.
 
-###### Tipos de 'ambientes' em que irão as propagandas:
+###### Tipos de "__ambientes__" em que irão as propagandas:
 * [WebApp (Sistema Web)](http://pt.wikipedia.org/wiki/Aplica%C3%A7%C3%A3o_Web);
 * [Web Sites](https://pt.wikipedia.org/wiki/Site);
 * [Mobile Apps](http://en.wikipedia.org/wiki/Mobile_app);
@@ -26,12 +26,16 @@ IMAGEM COM O ESQUEMA DE FUNCIONAMENTO DO PRODUTO (DE ONDE VEM OS APPS, DE ONDE G
 #### Fucionalidades:
 ------------------
 
-###### 1. _Comprar_ [Pr$](http://proumos.com):
+##### Anunciante
+
+###### 1. Construir BBapp
 É possível efetuar a compra de [Pr$](http://proumos.com) utilizando qualquer moeda.
  * Regra de negócio - 001: Este câmbio respeita a cotação, corrente, da moeda no mercado mundial;
  * Regra de negócio - 002: A moeda deve ser comprada por meio de _cartão de crédito_ ou _boleto bancário_.
- 
-###### 2. _Trocar_ [Pr$](http://proumos.com):
+
+##### Desenvolvedor 
+
+###### 2. Ambiente de desenvolvimento
 É possível trocar de volta da moeda virtual ([Pr$](http://proumos.com)) para a moeda física.
  * Regra de negócio - 001: Este câmbio respeita a cotação, corrente, da moeda no mercado mundial de moedas;
  * Regra de negócio - 002: O _débito_ só ocorrerá se a  quantidade de ([Pr$](http://proumos.com)) for 3x o valor, corrente, da transação.
