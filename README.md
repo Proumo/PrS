@@ -42,11 +42,11 @@ IMAGEM COM O ESQUEMA DE FUNCIONAMENTO DO PRODUTO (DE ONDE VEM OS APPS, DE ONDE G
   * O __valor__, corrente, da __transação__ e do __ganho__ do sistema sobre o _débito_ devem ser totalmente __transparente__.
  * Regra de negócio - 003: A moeda real deve ser passado em um _cartão de crédito_ ou em _conta corrente_.
 
-
 <br><br>
+
 ## Projeto
 
-#### Pr$-API:
+#### SDK:
 ------------------
 
 * Parte Web:
@@ -63,13 +63,12 @@ IMAGEM COM O ESQUEMA DE FUNCIONAMENTO DO PRODUTO (DE ONDE VEM OS APPS, DE ONDE G
       3. No WindowsPhone: ;
 <br>
 
+#### API:
+------------------
+
 #### Arquitetura do Sistema:
 ------------------
 
-##### Imagem Descritiva:
-
-
-##### Texto Descritivo:
 
 #### Branches:
 ------------------
